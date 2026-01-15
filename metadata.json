@@ -1,0 +1,5 @@
+{
+  "name": "DevOps Sentinel: Automation & Resilience Dashboard",
+  "description": "An interactive DevOps simulation dashboard demonstrating deployment rollbacks, log rotation, safe cleanup, and automated backups with real-time terminal output and system state visualization.",
+  "requestFramePermissions": []
+}
